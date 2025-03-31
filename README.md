@@ -1,5 +1,3 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# TESTING GITHUB REPOSITORY. 
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Added my MIDTERM project to practice github repository. A lot of troubleshooting but it's here now !
